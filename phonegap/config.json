@@ -1,0 +1,10 @@
+{
+  "lib": {
+    "www": {
+      "id": "alcoman"
+      ,"version": "0.0.0"
+    }
+  }
+  ,"id": "com.phonegap.alcoman"
+  ,"name": "alcoman"
+}
