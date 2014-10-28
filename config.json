@@ -1,6 +1,8 @@
 {
-  
-  "appName": "alcoman"
-  ,"authorName": ""
-  ,"authorEmail": ""
+  "appName": "alcoman",
+  "authorName": "stas",
+  "authorEmail": "",
+  "server": {
+    "port": 8080
+  }
 }

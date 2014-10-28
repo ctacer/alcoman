@@ -1,0 +1,1622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"returnDate"
+			],
+			[
+				"che",
+				"checkBoundFiends"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ex",
+				"existingRooms"
+			],
+			[
+				"room",
+				"roomContainers"
+			],
+			[
+				"cal",
+				"calendarBox"
+			],
+			[
+				"D",
+				"Date"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"lea",
+				"leaveListener"
+			],
+			[
+				"clea",
+				"clearCalendarDays"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"ca",
+				"calendar"
+			],
+			[
+				"days",
+				"daysToCheck"
+			],
+			[
+				"input",
+				"inputType"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"inpu",
+				"inputType"
+			],
+			[
+				"dat",
+				"datepicker"
+			],
+			[
+				"keyup",
+				"keyupListener"
+			],
+			[
+				"ke",
+				"keyupListener"
+			],
+			[
+				"wi",
+				"withTooltip"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"mes",
+				"messages"
+			],
+			[
+				"con",
+				"containerEl"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tw",
+				"tweetEl"
+			],
+			[
+				"twe",
+				"tweets"
+			],
+			[
+				"consumer",
+				"consumer_key"
+			],
+			[
+				"bac",
+				"backbone"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"requestTokenS",
+				"requestTokenSecret"
+			],
+			[
+				"req",
+				"requestToken"
+			],
+			[
+				"toke",
+				"tokers"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"get",
+				"getMessages"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"user",
+				"userSuccess"
+			],
+			[
+				"fet",
+				"fetchOptions"
+			],
+			[
+				"pro",
+				"props"
+			],
+			[
+				"fe",
+				"fetchOptions"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"back",
+				"backendApi"
+			],
+			[
+				"fr",
+				"friendsCollection"
+			],
+			[
+				"Fr",
+				"FriendsCollection"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"des",
+				"destroy"
+			],
+			[
+				"na",
+				"navView"
+			],
+			[
+				"ph",
+				"phone-mainpanel"
+			],
+			[
+				"fnu",
+				"function"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"subm",
+				"submitSearchProfiles"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"sea",
+				"searchText"
+			],
+			[
+				"se",
+				"searchField"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"append",
+				"appendToken"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"User",
+				"UserModel"
+			],
+			[
+				"s",
+				"success"
+			],
+			[
+				"inn",
+				"inline-block"
+			],
+			[
+				"set",
+				"setVal  (function)"
+			],
+			[
+				"st",
+				"storage"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"api",
+				"apiUrl"
+			],
+			[
+				"form",
+				"formObject"
+			],
+			[
+				"app",
+				"appendToken"
+			],
+			[
+				"lo",
+				"loginTemplate"
+			],
+			[
+				"home",
+				"homeTemplate"
+			],
+			[
+				"done",
+				"doneCb"
+			],
+			[
+				"do",
+				"doneCb"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"soc",
+				"socketWrapper"
+			],
+			[
+				"up",
+				"updateFileUpload  (function)"
+			],
+			[
+				"addFile",
+				"addFileUpload"
+			],
+			[
+				"addF",
+				"addFileWaitingLink"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"ro",
+				"room"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"bui",
+				"buildTemplate"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"sock",
+				"socketWrapper"
+			],
+			[
+				"ha",
+				"handler"
+			],
+			[
+				"ran",
+				"randColor"
+			],
+			[
+				"clo",
+				"colorExists"
+			],
+			[
+				"cha",
+				"chatRooms"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"Ro",
+				"RoomSchema"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"fin",
+				"findCallback"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"dis",
+				"disconnect"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"new",
+				"newmessage"
+			],
+			[
+				"roo",
+				"roomname"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"sa",
+				"saveResult"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"d",
+				"display:   (property)"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"drop",
+				"dropHandler"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"dr",
+				"drag"
+			],
+			[
+				"inner",
+				"innerHeight  (variable)"
+			],
+			[
+				"mou",
+				"mouseDown"
+			],
+			[
+				"ja",
+				"javascripts"
+			],
+			[
+				"pla",
+				"player-playlist"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			],
+			[
+				"folder",
+				"folderName"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"waveCa",
+				"waveCanvasHeight"
+			],
+			[
+				"freq",
+				"frequencies"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"au",
+				"audio"
+			],
+			[
+				"audi",
+				"audioObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 6239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 749,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".editorconfig",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".jshintrc",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Node.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sstasishin/Documents/GitHub/alcoman"
+	],
+	"file_history":
+	[
+		"/C/Users/sstasishin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sstasishin/Documents/GitHub/alcoman/package.json",
+		"/C/Users/sstasishin/Documents/GitHub/alcoman/config.json",
+		"/C/Users/sstasishin/Documents/GitHub/alcoman/bower.json",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/js/vendor/jquery.daterangepicker.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/css/osbStyles.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/js/components/priceAndBook.js",
+		"/D/Work/repos/hermes/my-runtime.properties",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/js/components/osbsearch.js",
+		"/C/Users/sstasishin/Documents/projs/angular/package.json",
+		"/D/Work/repos/hermes/web/WEB-INF/jsp/views/resorts/resortHeader.jsp",
+		"/D/Work/repos/hermes/web/WEB-INF/jsp/views/packages/listLandingPage.jsp",
+		"/D/Work/repos/hermes/web/WEB-INF/jsp/views/packages/landingPage.jsp",
+		"/D/Work/repos/hermes/web/WEB-INF/jsp/views/articles/list.jsp",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/js/components/globalComponentFunctions.js",
+		"/D/Work/repos/hermes/build/dist/root.war/WEB-INF/jsp/views/packages/landingPage.jsp",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-view/src/content/jcr_root/apps/site/cc/components/content/OSBSearch/OSBSearch.jsp",
+		"/C/Users/sstasishin/AppData/Local/Temp/Temp1_etc.zip/etc/designs/site/cc/brands/cheap/unified.min.020.js",
+		"/C/Users/sstasishin/Documents/projs/caribians/select ie/fix.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/js/vendor/bootstrap.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/target/package/jcr_root/etc/designs/site/cc/clientlibs/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/css/modded/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/css/modded/bootstrap-original.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/css/bootstrap.css",
+		"/D/Work/repos/hermes/tools/SR/ddl.sql",
+		"/D/Work/repos/hermes/build/dist/root.war/email/preferences.jsp",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/src/content/jcr_root/etc/designs/site/cc/clientlibs/css/daterangepicker.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-view/src/content/jcr_root/apps/site/cc/components/content/priceAndBook/priceAndBook.jsp",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/target/package/jcr_root/etc/designs/site/cc/clientlibs/js/vendor/bootstrap.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/src/content/jcr_root/content/cheapcaribbean/en/static/corporate/js/vendor/bootstrap.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/src/content/jcr_root/content/cheapcaribbean/en/static/corporate/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/target/package/jcr_root/etc/designs/site/cc/clientlibs/css/modded/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/target/package/jcr_root/etc/designs/site/cc/clientlibs/css/modded/bootstrap-original.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/src/content/jcr_root/content/cheapcaribbean/en/static/search/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/src/content/jcr_root/content/cheapcaribbean/en/static/search/js/vendor/bootstrap.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/src/content/jcr_root/etc/designs/cc/search/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/target/package/jcr_root/content/cheapcaribbean/en/static/corporate/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/target/package/jcr_root/content/cheapcaribbean/en/static/corporate/js/vendor/bootstrap.js",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-legacy/target/package/jcr_root/content/cheapcaribbean/en/static/search/css/bootstrap.css",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/cc-base/cc-design/target/package/jcr_root/etc/designs/site/cc/clientlibs/js/components/osbsearch.js",
+		"/D/Work/repos/cq/cc-repo/install-projects.sh",
+		"/D/Work/repos/hermes/build.xml",
+		"/D/Work/Servers/tomcat6/cc-app-config/hermes-app-cfg.properties",
+		"/D/Work/repos/cq/cc-repo/cc-cq-modules/pom.xml",
+		"/D/Work/Servers/httpd/Apache2.2/conf/httpd.conf",
+		"/D/Work/Servers/httpd/Apache2.2/conf/httpd_with_cq.conf",
+		"/D/Work/repos/hermes/a.bat",
+		"/D/Work/repos/hermes/4.bat",
+		"/C/Users/sstasishin/.ssh/id_rsa.pub",
+		"/C/Users/sstasishin/Desktop/index.html",
+		"/C/Users/sstasishin/Desktop/style.css",
+		"/D/Work/repos/hermes/local-build.properties",
+		"/D/Work/Servers/httpd/Apache2.2/conf/httpd_with_cq - Copy.conf",
+		"/D/Work/Servers/tomcat6/conf/Standalone/localhost/ROOT.xml",
+		"/D/Work/Servers/tomcat6/conf/web.xml",
+		"/D/Work/Servers/tomcat6/conf/server.xml",
+		"/D/Work/Servers/tomcat6/webapps/manager/xform.xsl",
+		"/D/Work/Servers/tomcat6/conf/tomcat-users.xml",
+		"/D/Work/svn-cc/build.properties",
+		"/D/Work/svn-cc/build.xml",
+		"/D/Work/svn/my-runtime.properties",
+		"/D/Work/Servers/maven/conf/settings.xml",
+		"/D/Work/git/cc/cc-repo/install-projects.sh",
+		"/D/Work/git/cc/cc-repo/cc-cq-modules/pom.xml",
+		"/D/Work/git/cc/cc-repo/cc-cq-modules/snapbuild-design.textClipping",
+		"/C/Users/sstasishin/Documents/projs/caribians/437.css",
+		"/D/Work/svn/runtime.properties",
+		"/D/Work/svn/local-build.properties",
+		"/D/Work/svn/build.properties",
+		"/D/Work/svn/1.sql",
+		"/C/Users/sstasishin/Documents/projs/caribians/last.css",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/assets/css/styles.css",
+		"/C/OpenDS/setup.bat",
+		"/C/OpenDS/bat/start-ds.bat",
+		"/C/OpenDS/setup",
+		"/C/Users/sstasishin/Documents/projs/caribians/price-holder.css",
+		"/C/Users/sstasishin/Documents/projs/caribians/image2014-7-24 10-56-31.png",
+		"/C/Users/sstasishin/Documents/projs/caribians/.conf",
+		"/C/OpenDS/bin/start-ds",
+		"/C/Users/sstasishin/Documents/projs/caribians/select ie/fix.css",
+		"/C/Users/sstasishin/Documents/projs/caribians/select ie/01.html",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/326-steps.txt",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/OSB_HotelDetails_SearchConducted.html",
+		"/C/Users/sstasishin/Documents/projs/dataArtTraining/nodejs/app.js",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/390-steps.txt",
+		"/C/Users/sstasishin/Desktop/326-style.css",
+		"/C/Users/sstasishin/Desktop/390-style.css",
+		"/C/Users/sstasishin/Desktop/index-ie10-fix.html",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/OSB_HomePage.html",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/OSB_HotelDetails_NoSearch.html",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB-FINAL/OSB_HotelDetails_SearchConducted_original.html",
+		"/C/Users/sstasishin/Documents/projs/caribians/OSB_HotelDetails_NoSearch.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/home.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/collections/user-messages.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/collections/messages.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/home.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/user-page.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/user-page.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/config.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/messages.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/collections/friends.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/friends.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/tweets.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/friends.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/css/main.css",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/main.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/collections/tweets.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/utils.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/tweets.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/css/classes.css",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/nav-bar.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/app.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/models/tweet.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/templates/edit-profile.html",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/twits.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/backend-api.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/server/tweet.php",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/router.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/server/twits.php",
+		"/C/Users/sstasishin/Downloads/tweet.php",
+		"/C/Users/sstasishin/Documents/apache/backbone/server/mock.php",
+		"/C/Users/sstasishin/Documents/apache/mock.php",
+		"/C/apache/conf/httpd.conf",
+		"/C/Windows/System32/drivers/etc/hosts.txt",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/edit-profile.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/login.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/collections/unknown-users.js",
+		"/C/Users/sstasishin/Documents/apache/backbone/js/views/search-profile.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\Work\\repos",
+			"D:\\Work\\repos\\hermes",
+			"D:\\Work\\repos",
+			"D:\\Work\\repos\\cq\\cc-repo\\cc-cq-modules",
+			"D:\\Work\\repos\\cq",
+			"D:\\Work\\repos\\cq\\cc-repo\\cc-cq-modules\\cc-base",
+			"D:\\Work\\repos\\hermes",
+			"D:\\Work\\repos\\cq\\cc-repo",
+			"D:\\Work\\repos",
+			"D:\\Work\\repos\\hermes",
+			"C:\\Users\\sstasishin\\Documents\\projs\\caribians\\select ie",
+			"C:\\Users\\sstasishin\\Documents\\apache\\backbone\\js\\views",
+			"C:\\Users\\sstasishin\\Documents\\apache\\backbone\\js",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\app\\view",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\app\\view\\phone",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\sdk",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\sencha\\GS\\app\\controller\\tablet",
+			"C:\\Users\\sstasishin\\Documents\\apache\\backbone\\js",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\svyatoslav-stasishin-web-backbone-js-base-course\\app\\js",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\nodejs\\app\\js",
+			"C:\\Users\\sstasishin\\Documents\\projs\\dataArtTraining\\nodejs\\routes",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\public\\javascripts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\node_modules\\grunt-traceur-compiler",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\public\\javascripts",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app\\view",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app\\view",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app\\controller",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app\\view",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\projs\\angular-seed\\angular-training\\app",
+			"C:\\Users\\sstasishin\\Documents\\projs\\angular-seed\\angular-training\\app\\js",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app\\controller",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS",
+			"C:\\Users\\sstasishin\\Documents\\sencha\\GS\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\public\\javascripts",
+			"C:\\Users\\sstasishin\\Documents\\projs\\angular-seed\\angular-training\\app\\js",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\pfm-charts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\pfm-charts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\build",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\build",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\pfm-charts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\pfm-charts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\new-app\\src\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\build",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\financial-planning",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\Retail_Angular\\new-app\\src\\app\\iPay",
+			"C:\\Users\\sstasishin\\Documents\\projs\\DATS\\src\\datsflow\\public\\css",
+			"C:\\Users\\sstasishin\\Documents\\projs\\DATS\\src\\datsflow\\app\\assets\\js",
+			"C:\\Users\\sstasishin\\Documents\\projs\\angular-seed\\angular-training\\app\\less",
+			"C:\\Users\\sstasishin\\Documents\\projs\\simple_numbers\\public\\js",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\public\\javascripts",
+			"C:\\Users\\sstasishin\\Documents\\GitHub\\eqapp\\public\\stylesheets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        ,'",
+			"        '",
+			": \"",
+			"\":",
+			"per-ticket airline",
+			"ff3",
+			"#tripSearch .ts14-priceHolder .ts14-price",
+			"#tripSearch .ts14-priceHolder",
+			"console.",
+			"jQuery",
+			"checkBoundFiends",
+			"console.log",
+			"booki",
+			"disabled",
+			"class=\"oneColumn container\"",
+			"console.l",
+			"console",
+			"console.log",
+			"console.log(",
+			"ts14-numberOfChildrenSelec",
+			"changeNumberOfElements",
+			"conso",
+			"changeNumberOfElements",
+			"onAdultsNumberChanges",
+			"hiddenAdultAge",
+			"adultAgeHiddenInput",
+			"hiddenAdultAge",
+			"searchParameters.noOfRooms",
+			"ts14-numberOfRooms-T1",
+			"input[name*=",
+			"input[name*='.persons'], select[name*='.persons']",
+			".ts14-button",
+			"div.ts14-button",
+			"/^(?:input|select|textarea)$/i",
+			"find(\"input\").unbind(\".datepicker\")",
+			"..",
+			"click",
+			".click",
+			"click",
+			"console.l",
+			"clearDateRange",
+			"enterKey",
+			"console.log",
+			"console",
+			"nextM",
+			"console.log(",
+			"console.log((",
+			"beforeNextMonth",
+			"showMonth",
+			"createMonthHTML",
+			"clearDateRange",
+			"dayClicked",
+			"changeTime",
+			"dayClicked",
+			"bindRelatedInput",
+			"createMonthHTML",
+			"showMonth",
+			"createMonthHTML",
+			"createD",
+			"langs",
+			"time",
+			"initializeTooltips",
+			"init_datepicker",
+			"closeDatePicker",
+			"close(",
+			"moment",
+			"qa1",
+			"white-space:",
+			"http://dev.cheapcaribbean.com/resorts/Grenada/Spice-Island-Beach-Resort/2916.html?priceAndBook.packageId=0&searchParameters.leaveDate=11%2F08%2F2014&searchParameters.rooms%5B0%5D.persons%5B1%5D=25&_searchParameters.allInclusive=on&searchParameters.noOfRooms=1&searchParameters.rooms%5B0%5D.persons%5B0%5D=25&searchParameters.returnDate=11%2F15%2F2014&searchParameters.localeId=285&searchParameters.bookingType=P&searchParameters.maxPrice=&searchParameters.nonStop=false&searchParameters.osbSearch=true&searchParameters.departureAirport=SEA&id=5300403907506671616",
+			"#tripSearch .overnight",
+			"   - ",
+			"- ",
+			"email@cheapcaribbean.",
+			"Please Tell us",
+			".date-picker-wrapper",
+			"attr('title",
+			"initializeTooltips",
+			"<span class=\"fixPlaceholder\">Choose a Destination</span>",
+			"ie-fixSelect",
+			"function open",
+			"open",
+			"dateRangePicker",
+			"initializeTooltips",
+			"288",
+			".ie-fixSelect",
+			"cc-",
+			"cq",
+			"cc-repo",
+			"get",
+			"pause",
+			"HOTEL + FLIGHT TAB",
+			"db.bookin",
+			"sql",
+			"mysql",
+			"hermes",
+			"port",
+			"vc",
+			"мс",
+			"vc",
+			"osb",
+			"dispatcher",
+			"disp_apache2",
+			"osb",
+			"dispatcher",
+			"dispa",
+			"root",
+			"disabledElement",
+			"D:\\",
+			"D:\\wo",
+			"D:/wo",
+			"java",
+			"/",
+			"; ",
+			"numberOfAdultsSelect",
+			"numberOfRooms",
+			"caption",
+			"style=\"",
+			"#tripSearch .ts14-styledSelect select",
+			"<span class=\"ts14-font11 ts14-blue ts14-subPerPerson\">per person</span>",
+			"halfWidthRight",
+			"subPerPerson",
+			"<div class=\"ts14-half\">",
+			"\"ts14-form\"",
+			"<div class=\"ts14-half\">",
+			"<div class=\"ts14-half ts14-right-half\">",
+			"ts14-dataPicker",
+			"ts14-price",
+			"<span class=\"ts14-price\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"userName",
+			"roomName",
+			"$utils",
+			"loadAssociatedPlans",
+			"left-align-15",
+			"sizes.height",
+			"sizes.width",
+			"pfmImageLinker.get",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								620,
+								620
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".editorconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".jshintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "alco.project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 451.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

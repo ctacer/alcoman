@@ -1,18 +1,7 @@
 {
-     "name": "alcoman"
-    ,"version": "0.0.1"
-    ,"dependencies": {
-         "almond":                  "latest"
-        ,"backbone":                "latest"
-        ,"backbone.stickit":        "latest"
-        ,"backbone.subroute":       "latest"
-        ,"backbone.dualstorage":    "latest"
-        ,"fastclick":               "latest"
-        ,"jquery":                  "latest"
-        ,"requirejs":               "latest"
-        ,"requirejs-text":          "latest"
-        ,"requirejs-plugins":       "latest"
-        ,"requirejs-domready":      "latest"
-        ,"underscore":              "latest"
-    }
+  "name": "alcoman",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest"
+  }
 }
