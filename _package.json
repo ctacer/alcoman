@@ -1,0 +1,34 @@
+{
+  "name": "alcoman",
+  "version": "0.0.1",
+  "dependencies": {
+    "bower": "*",
+    "grunt": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-wiredep": "*",
+    "grunt-bower-install": "*",
+    "grunt-contrib-connect": "*",
+    "connect-livereload": "*",
+    "grunt-contrib-less": "*",
+    "grunt-autoprefixer": "*",
+    "grunt-env": "*",
+    "grunt-phonegap": "*",
+    "grunt-preprocess": "*",
+    "load-grunt-tasks": "*",
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-cli": "*",
+    "karma-jasmine": "*",
+    "time-grunt": "*",
+    "request": "*",
+    "matchdep": "*",
+    "moment": "*",
+    "phonegap": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
