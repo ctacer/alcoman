@@ -1,0 +1,10 @@
+
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+#viewport {
+  border: 1px solid #e6e6e6;
+}

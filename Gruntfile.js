@@ -122,6 +122,7 @@ module.exports = function (grunt) {
                     }
                 }
             }
+        }
     });
 
     // Build a development version of web app

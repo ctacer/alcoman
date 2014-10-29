@@ -12,6 +12,7 @@
     "grunt-phonegap": "^0.15.2",
     "grunt-wiredep": "*",
     "load-grunt-tasks": "*",
+    "phonegap": "^3.6.0-0.21.19",
     "time-grunt": "^1.0.0"
   },
   "engines": {

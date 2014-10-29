@@ -11,13 +11,16 @@
         <!-- @if NODE_ENV == 'DEVELOPMENT' -->
         <!-- @endif -->
 
+        <link rel="stylesheet" type="text/css" href="styles/index.css" />
+
     </head>
     <body>
-        <section id="page-wrap" class="page-wrap">AA</section>
-        <button onclick="buttonClick(this)">BB</button>
+        <button style="position: absolute;right: 100px;top: 10px;" onclick="buttonClick(this)">BB</button>
+
+        <canvas width="600" height="600" id="viewport"></canvas>
 
         <!-- bower:js -->
-        <script src="vendors/angular/angular.js"></script>
+        <script src="vendors/jquery/dist/jquery.js"></script>
         <!-- endbower -->
 
         <script type="text/javascript" src="js/app.js"></script>
